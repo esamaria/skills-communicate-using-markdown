@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] First step
+- [ ] Second step
+- [ ] Introduce myself to the world
